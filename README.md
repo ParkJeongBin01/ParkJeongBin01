@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://pbs.twimg.com/media/GdVduVdXkAAd2PN.png">
+<!-- <img src="https://pbs.twimg.com/media/GdVduVdXkAAd2PN.png"> -->
 <!--
 **ParkJeongBin01/ParkJeongBin01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
